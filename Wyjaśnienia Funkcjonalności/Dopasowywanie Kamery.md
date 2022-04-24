@@ -1,5 +1,5 @@
 # Dopasowywanie Kamery
-Tworzymy skryp CameraAdjustment a następnie przypisujemy go do Głównej kamery, a następnie czamy, aż magia zrobi swoje
+Tworzymy skryp CameraAdjustment a następnie przypisujemy go do Głównej kamery, a następnie czamy, aż magia zrobi swoje.
 ![[Pasted image 20220405135404.png]]
 ``` CS
 using System.Collections;

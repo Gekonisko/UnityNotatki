@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fb878fdb93a805e5",
+        "id": "0be80a668acebea8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Uniy Prefabs.md",
-            "mode": "preview",
-            "source": false
+            "file": "------Czolgi Taski-------/Adrian Markowski/Dodanie Power Upów.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uniy Prefabs.md",
+                "file": "------Czolgi Taski-------/Adrian Markowski/Dodanie Power Upów.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "fb878fdb93a805e5",
+  "active": "0be80a668acebea8",
   "lastOpenFiles": [
-    "Uniy Prefabs.md",
-    "Dopasowywanie Kamery.md",
-    "Unity Kamera.md",
-    "Wzorce Projektowe/Singleton.md",
-    "Unity/Przed Uruchomieniem Projektu.md",
-    "Unity/Uniy Prefabs.md",
-    "Kombinacje z Powtórzeniami.md",
-    "Pochodne Cząstkowe.md",
-    "Prędkość Chwilowa.md",
-    "Szyfrowanie Asymetryczne.md"
+    "------Czolgi Taski-------/Adrian Markowski/Dodanie Power Upów.md",
+    "------Czolgi Taski-------/Antoni Zięciak/Dodanie Spirali Śmierci.md",
+    "------Czolgi Taski-------/Adrian Krupa/Dodanie Minutnika do gry.md",
+    "Zdjęcia i Filmy/Pasted image 20220425004256.png",
+    "GIT/Tworzenie Branchy.md",
+    "GIT/Przydatne komendy GIT.md",
+    "Zdjęcia i Filmy/bandicam 2022-04-24 23-41-05-616.jpg",
+    "Zdjęcia i Filmy/Pasted image 20220424232238.png",
+    "Zdjęcia i Filmy/Pasted image 20220424234023.png",
+    "Zdjęcia i Filmy/Pasted image 20220424233543.png"
   ]
 }
