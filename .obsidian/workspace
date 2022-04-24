@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "------Czolgi Taski-------/Adrian Markowski/Dodanie Power Upów.md",
-            "mode": "source",
+            "file": "------Czolgi Taski-------/Kacper Stankiewicz/Dodanie Minutnika do gry.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "------Czolgi Taski-------/Adrian Markowski/Dodanie Power Upów.md",
+                "file": "------Czolgi Taski-------/Kacper Stankiewicz/Dodanie Minutnika do gry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "0be80a668acebea8",
   "lastOpenFiles": [
+    "------Czolgi Taski-------/Kacper Stankiewicz/Dodanie Minutnika do gry.md",
     "------Czolgi Taski-------/Adrian Markowski/Dodanie Power Upów.md",
     "------Czolgi Taski-------/Antoni Zięciak/Dodanie Spirali Śmierci.md",
-    "------Czolgi Taski-------/Adrian Krupa/Dodanie Minutnika do gry.md",
     "Zdjęcia i Filmy/Pasted image 20220425004256.png",
     "GIT/Tworzenie Branchy.md",
     "GIT/Przydatne komendy GIT.md",
